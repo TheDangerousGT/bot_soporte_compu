@@ -36,4 +36,4 @@ client.on("message", (message) => {
 
 });
  
- client.login("Nzc4MDIxMTY4ODMzMjMyOTM3.X7L6rQ.Xn167LDuFlOzHbd2ki5t8b_dalo");
+ client.login("Token Secreto");
